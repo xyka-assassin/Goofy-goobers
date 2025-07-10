@@ -1,0 +1,34 @@
+li {
+color:aquamarine}
+ .Heading_tags{color:rgb(163, 255, 120);}
+ body {
+     /* background-color: darkblue;   */
+     /* cntr+/ */
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbB_doR9LVg_xVbDXOOZc3TNbgNCEIzLLKw&s"); 
+     background-repeat: no-repeat;
+     /* background-repeat: repeat-x; */
+     /* background-repeat: repeat-y; */
+
+}
+
+.monsieur-la-doulaise-regular {
+  font-family: "Monsieur La Doulaise", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+div {
+ /* border: 50px: black; */
+border-width: 10px 50px 37px 40px;
+border-color: black red blue violet;
+border-style: ridge dashed solid dotted;
+margin: 50px;
+padding: 130px 270px;
+height: 50%;
+width: 50%;
+}
+/* body {font-size: 30px;} */
+/* body {font-weight:900} */
+body {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+/* body {font-family: "Monsieur La Doulaise", cursive;} */
+/*  */
